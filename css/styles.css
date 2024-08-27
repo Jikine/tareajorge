@@ -1,0 +1,48 @@
+*{
+    margin: px;
+}
+.padre{
+    background-color: aqua;
+}
+.hijo1{
+    background-color: yellowgreen;
+    padding: 80px;
+    border-radius: 100%;
+    
+}
+.hijo2{
+    background-color: coral;
+    padding: 80px;
+    border-radius: 100%;
+    
+}
+.hijo3{
+    background-color: yellow;
+    padding: 80px;
+    border-radius: 100%;
+    
+}
+.hijo4{
+    background-color: blue;
+    padding: 80px;
+    border-radius: 100%;
+    
+}
+.hijo5{
+    background-color: blueviolet;
+    padding: 80px;
+    border-radius: 100%;
+    
+}
+.hijo6{
+    background-color: burlywood;
+    padding: 80px;
+    border-radius: 100%;
+    
+}
+.hijo7{
+    background-color:white;
+    padding: 80px;
+    border-radius: 100%;
+    
+}
